@@ -1,0 +1,2 @@
+# Symphony
+Modular Music Sequencer
