@@ -1,3 +1,4 @@
+<img width="799" alt="Screen Shot 2021-08-04 at 12 27 42 PM" src="https://user-images.githubusercontent.com/61434761/128218509-ad53f148-c5cf-4dc4-acd9-166f5fc43297.png">
 # Symphony
 <img width="766" alt="Screen Shot 2021-08-04 at 12 12 46 PM" src="https://user-images.githubusercontent.com/61434761/128216692-067ff64e-bac9-4508-89a1-ea2554077be5.png">
 
